@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d301f4c4-43ef-4b75-bfc3-af39f8ae8314" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.." beforeDir="false" afterPath="$PROJECT_DIR$/.." afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/INICIANTE/1002.py" beforeDir="false" afterPath="$PROJECT_DIR$/INICIANTE/1002.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/INICIANTE/1003.py" beforeDir="false" afterPath="$PROJECT_DIR$/INICIANTE/1003.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Minhas_Criacoes/JogoHeroisKotlinAndroidStudio" beforeDir="false" afterPath="$PROJECT_DIR$/../../Minhas_Criacoes/JogoHeroisKotlinAndroidStudio" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Minhas_Criacoes/UnitDoisLayouts" beforeDir="false" afterPath="$PROJECT_DIR$/../../Minhas_Criacoes/UnitDoisLayouts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projetos_Kotlin/JogoHeroiKotlin" beforeDir="false" afterPath="$PROJECT_DIR$/../../Projetos_Kotlin/JogoHeroiKotlin" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2MI2LkAknZZVp6WYo28UvoJ3COE" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\PROGRAMAS\Beecrown\Phyton" />
+      <recent name="D:\PROGRAMAS\Beecrown\Phyton\INICIANTE" />
+      <recent name="D:\PROGRAMAS\Beecrown\Phyton\.gitignore" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d301f4c4-43ef-4b75-bfc3-af39f8ae8314" name="Changes" comment="" />
+      <created>1677440722132</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1677440722132</updated>
+    </task>
+    <servers />
+  </component>
+</project>
